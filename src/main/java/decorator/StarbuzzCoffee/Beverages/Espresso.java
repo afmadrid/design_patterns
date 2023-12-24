@@ -1,6 +1,6 @@
-package decorator.Beverages;
+package decorator.StarbuzzCoffee.Beverages;
 
-import decorator.Beverage;
+import decorator.StarbuzzCoffee.Beverage;
 
 public class Espresso extends Beverage {
     public Espresso() {

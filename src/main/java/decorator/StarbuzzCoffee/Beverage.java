@@ -1,6 +1,7 @@
-package decorator;
+package decorator.StarbuzzCoffee;
 
 public abstract class Beverage {
+
     public String description = "Unkown Beverage";
 
     public String getDescription() {

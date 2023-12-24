@@ -1,7 +1,7 @@
-package decorator.Condiments;
+package decorator.StarbuzzCoffee.Condiments;
 
-import decorator.Beverage;
-import decorator.CondimentDecorator;
+import decorator.StarbuzzCoffee.Beverage;
+import decorator.StarbuzzCoffee.CondimentDecorator;
 
 public class Mocha extends CondimentDecorator {
     public Mocha(Beverage beverage) {

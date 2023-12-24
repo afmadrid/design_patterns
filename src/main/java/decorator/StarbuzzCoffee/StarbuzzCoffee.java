@@ -1,11 +1,11 @@
-package decorator;
+package decorator.StarbuzzCoffee;
 
-import decorator.Beverages.DarkRoast;
-import decorator.Beverages.Espresso;
-import decorator.Beverages.HouseBlend;
-import decorator.Condiments.Mocha;
-import decorator.Condiments.Soy;
-import decorator.Condiments.Whip;
+import decorator.StarbuzzCoffee.Beverages.DarkRoast;
+import decorator.StarbuzzCoffee.Beverages.Espresso;
+import decorator.StarbuzzCoffee.Beverages.HouseBlend;
+import decorator.StarbuzzCoffee.Condiments.Mocha;
+import decorator.StarbuzzCoffee.Condiments.Soy;
+import decorator.StarbuzzCoffee.Condiments.Whip;
 
 public class StarbuzzCoffee {
     public static void main(String[] args) {
